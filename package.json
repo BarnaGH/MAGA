@@ -1,0 +1,40 @@
+{
+  "name": "virtual-explosion",
+  "version": "1.0.0",
+  "description": "Draw a virtual explosion on the top of the actual window.",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ./app/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^3.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.2",
+    "electron-builder": "^19.49.0",
+    "electron": "^1.7.9"
+  },
+  "build": {
+    "appId": "yourappid",
+    "dmg": {
+      "contents": [
+        {
+          "x": 110,
+          "y": 0
+        },
+        {
+          "x": 240,
+          "y": 0,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    },
+    "win": {
+      "target": "portable"
+    }
+  }
+}
