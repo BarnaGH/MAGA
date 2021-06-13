@@ -1,12 +1,10 @@
-# <b>Make App crash Great Again</b>
+# <b>MAGA</b>
 
-<img align="left" src="./images/iswear.png" width="100" />
+• <b>MAGA</b> is the most explosive app crash message available on github.
 
-&nbsp;&nbsp;&nbsp;&nbsp; • <b>MAGA</b> is the most explosive app crash message available on github.
+• <b>MAGA</b> let you personalize your error box message.
 
-&nbsp;&nbsp;&nbsp;&nbsp; • <b>MAGA</b> let you personalize error box message.
-
-&nbsp;&nbsp;&nbsp;&nbsp; • <b>MAGA</b> is available with 4 random explosion animation pattern.
+• <b>MAGA</b> is available with 4 random explosion animation patterns.
 
 ## <b>💥 Explosions</b>
 
